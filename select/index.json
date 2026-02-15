@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Godspeed",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T11:21:26.797387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/01_Godspeed_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/02_Godspeed_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Godspeed (Feat. Kim Burrell)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/03_Godspeed_(Feat._Kim_Burrell)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/04_Godspeed_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/05_Godspeed_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "We Are the Ocean",
+      "has_synced": true,
+      "path": "select/06_Godspeed_We_Are_the_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/07_Godspeed_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Anberlin",
+      "has_synced": false,
+      "path": "select/08_Godspeed_Anberlin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Godspeed (Sweet Dreams)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/09_Godspeed_(Sweet_Dreams)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Godspeed (Sweet Dreams)",
+      "artist": "Dixie Chicks",
+      "has_synced": true,
+      "path": "select/10_Godspeed_(Sweet_Dreams)_Dixie_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "The Contortionist",
+      "has_synced": true,
+      "path": "select/11_Godspeed_The_Contortionist.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Wage War",
+      "has_synced": true,
+      "path": "select/12_Godspeed_Wage_War.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Godspeed - Stripped",
+      "artist": "Wage War",
+      "has_synced": true,
+      "path": "select/13_Godspeed_-_Stripped_Wage_War.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Godspeed Us to Sea",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/14_Godspeed_Us_to_Sea_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Godspeed",
+      "artist": "Point North",
+      "has_synced": true,
+      "path": "select/15_Godspeed_Point_North.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Godspeed - Live",
+      "artist": "Alter Bridge",
+      "has_synced": false,
+      "path": "select/16_Godspeed_-_Live_Alter_Bridge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Godspeed",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Godspeed_Frank_Ocean.txt"
+    }
+  ]
+}
