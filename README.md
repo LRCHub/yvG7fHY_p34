@@ -1,0 +1,35 @@
+# Frank Ocean – Godspeed
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:34.15] I will always love you
+[00:38.69] How I do
+[00:42.64] Let go of a prayer for you
+[00:47.11] Just a sweet word
+[00:51.17] The table is prepared for you
+[01:05.67] 
+[01:08.73] Wishing you godspeed, glory
+[01:14.32] There will be mountains you won't move
+[01:33.32] 
+[01:25.74] Still, I'll always be there for you
+[01:30.66] How I do
+[01:34.66] 
+[01:34.77] I let go of my claim on you, it's a free world
+[01:43.09] You look down on where you came from sometimes
+[02:06.09] 
+[01:52.48] But you'll have this place to call home, always
+[02:15.98] 
+[02:04.32] This love will keep us through blinding of the eyes (oh)
+[02:08.13] Silence in the ears, darkness of the mind (until it's time)
+[02:12.79] This love will keep us through blinding of the eyes (oh, oh-oh)
+[02:16.18] Silence in the ears, darkness of the mind (oh, oh-oh, oh)
+[02:20.80] This love will keep us through blinding of the eyes (oh, until it's time we die)
+[02:24.40] Silence in the ears, darkness of the mind
+[02:44.90] 
+[02:30.56] Hmm-oh-oh, oh, oh-oh
+[02:40.56] 
+[02:39.73] I'll always love you until the time we die
+[03:00.73] 
+[02:48.86] Oh-oh, hmm
+```
